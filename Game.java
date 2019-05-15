@@ -15,7 +15,7 @@
  * @version 2011.07.31
  */
 
-public class Game 
+public class Game
 {
     private Parser parser;
     private Room currentRoom;
